@@ -1,8 +1,12 @@
 <div align="center">
-  <h1>
-    Praction Development
-  </h1>
+  <img src="https://github.com/Praction-Development/.github/blob/main/images/Praction_Banner.png" alt="Praction Development Banner">
 </div>
+
+
+<div align="center" style="color: #00d575;">
+  <h1>Praction Development</h1>
+</div>
+
 
 Welcome to the official Github repository for Praction - an organization dedicated to learning and having fun as we go.
 
