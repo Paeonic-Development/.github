@@ -63,25 +63,25 @@ We encourage all members to contribute to our projects, share ideas, and provide
   <a href="https://github.com/LukatsEE">
     <img src="https://github-readme-stats.vercel.app/api?username=LukatsEE&count_private=true&show_icons=true&text_color=FFFFFF&border_color=00d575&bg_color=2e2e2e&icon_color=00d575&title_color=00d575&border_radius=6" alt="LukatsEE's GitHub stats">
   </a>
-
-
-<p align="center">
-  <h2>
-    Programming Languages
-  </h2>
 </p>
+
+<div align="center">
+  <h2>
+    Languages
+  </h2>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,lua,php,bash,js,ts,vue,md&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,lua,php,bash,js,ts,vue,md" />
   </a>
 </p>
 
-<p align="center">
+<div align="center">
   <h2>
-    Markup & Stylesheet Languages
+    Markup & Stylesheet
   </h2>
-</p>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -89,11 +89,11 @@ We encourage all members to contribute to our projects, share ideas, and provide
   </a>
 </p>
 
-<p align="center">
+<div align="center">
   <h2>
     Frameworks
   </h2>
-</p>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -101,11 +101,11 @@ We encourage all members to contribute to our projects, share ideas, and provide
   </a>
 </p>
 
-<p align="center">
+<div align="center">
   <h2>
     Tools
   </h2>
-</p>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
