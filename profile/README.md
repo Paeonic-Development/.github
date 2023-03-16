@@ -64,22 +64,37 @@ We encourage all members to contribute to our projects, share ideas, and provide
     <img src="https://github-readme-stats.vercel.app/api?username=LukatsEE&count_private=true&show_icons=true&text_color=FFFFFF&border_color=00d575&bg_color=2e2e2e&icon_color=00d575&title_color=00d575&border_radius=6" alt="LukatsEE's GitHub stats">
   </a>
 
+<div align="center">
+  <h2>
+    Laguanges
+  </h2>
+</div>
+
 <p align="center">
-  <h2>Laguanges</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,lua,sass,css,html,php,bash,js,ts,vue,md&perline=6" />
   </a>
 </p>
 
+<div align="center">
+  <h2>
+    Frameworks
+  </h2>
+</div>
+
 <p align="center">
-  <h2>Frameworks</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,nuxtjs" />
   </a>
 </p>
 
+<div align="center">
+  <h2>
+    Tools
+  </h2>
+</div>
+
 <p align="center">
-  <h2>Tools</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,idea,mysql,nodejs,ps,vscode" />
   </a>
