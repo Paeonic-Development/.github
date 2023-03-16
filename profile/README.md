@@ -97,3 +97,24 @@ We encourage all members to contribute to our projects, share ideas, and provide
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCODE" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
+<p align="center">
+  <h2>Laguanges</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,lua,sass,css,html,php,bash,js,ts,vue,md" />
+  </a>
+</p>
+
+<p align="center">
+  <h2>Frameworks</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nuxtjs" />
+  </a>
+</p>
+
+<p align="center">
+  <h2>Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,idea,mysql,nodejs,ps,vscode" />
+  </a>
+</p>
