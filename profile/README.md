@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://github.com/Praction-Development/.github/blob/main/images/Praction_Banner.png" alt="Praction Development Banner">
+  <img src="https://github.com/Praction-Development/.github/blob/main/images/Praction_Banner.png" alt="PΛΞ0NIC Development Banner">
 </div>
 
 
 <div align="center" style="color: #00d575;">
-  <h1>Praction Development</h1>
+  <h1>PΛΞ0NIC Development</h1>
 </div>
 
 
-Welcome to the official Github repository for Praction - an organization dedicated to learning and having fun as we go.
+Welcome to the official Github repository for PΛΞ0NIC - an organization dedicated to learning and having fun as we go.
 
 <div align="center">
   <h2>
-    About Praction
+    About PΛΞ0NIC
   </h2>
 </div>
 
-Praction is a community-driven organization focused on learning and exploration. We are a group of individuals who are passionate about technology, coding, and innovation. Our goal is to create an environment that fosters creativity, collaboration, and growth.
+PΛΞ0NIC is a community-driven organization focused on learning and exploration. We are a group of individuals who are passionate about technology, coding, and innovation. Our goal is to create an environment that fosters creativity, collaboration, and growth.
 
 <div align="center">
   <h2>
