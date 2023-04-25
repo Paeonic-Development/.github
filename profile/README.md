@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Praction-Development/.github/blob/main/images/Praction_Banner.png" alt="PΛΞ0NIC Development Banner">
+  <img src="https://github.com/Paeonic-Development/.github/blob/main/images/Paeonic.png" alt="PΛΞ0NIC Development Banner">
 </div>
 
 
