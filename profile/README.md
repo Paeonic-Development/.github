@@ -73,7 +73,7 @@ We encourage all members to contribute to our projects, share ideas, and provide
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,lua,php,bash,js,ts,vue,md" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,cs,lua,php,bash,js,ts,vue,md" />
   </a>
 </p>
 
@@ -97,7 +97,7 @@ We encourage all members to contribute to our projects, share ideas, and provide
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=laravel,nuxtjs,dotnet" />
   </a>
 </p>
 
@@ -109,6 +109,6 @@ We encourage all members to contribute to our projects, share ideas, and provide
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,idea,mysql,nodejs,ps,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,idea,mysql,nodejs,ps,vscode,visualstudio" />
   </a>
 </p>
